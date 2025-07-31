@@ -1,3 +1,3 @@
 Notebooks for time predictions from Google Sprinternship. The past predictions notebook includes data cleaning/preprocessing, feature extraction, and an XGBoost model with tuned hyperparameters to predict prices of homes in the past based on various features such as number of beds, square feet, number of bathrooms, etc. The future predictions notebook contains an ARIMA model to project the future price of houses for all zipcodes based on past predicted prices and growth percentages each year for median prices. 
 * Visit the live webapp here: http://35.231.83.174/
-* Visit the original repository for the full webapp here: https://github.com/aileneymt/googlerealtor
+* Visit the original repository (models deployed in backend with Flask fraemwork) for the full webapp here: https://github.com/aileneymt/googlerealtor
